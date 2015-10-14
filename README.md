@@ -1,0 +1,2 @@
+# cotico
+a demo repository
